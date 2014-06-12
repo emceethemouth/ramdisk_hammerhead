@@ -10,4 +10,3 @@ persist.radio.use_cc_names=true
 persist.sys.usb.config=mtp,adb
 rild.libpath=/system/lib/libril-qc-qmi-1.so
 camera.disable_zsl_mode=1
-ro.adb.secure=0
